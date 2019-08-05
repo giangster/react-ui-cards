@@ -1,3 +1,4 @@
+import AvatarCard from './AvatarCard';
 import UserCard from './UserCard';
 import ProductCard from'./ProductCard';
 import TaggedContentCard from './TaggedContentCard';
@@ -10,6 +11,7 @@ import NewsHeaderCard from './NewsHeaderCard';
 import CryptoCard from './CryptoCard';
 
 export default {
+  AvatarCard,
   UserCard,
   ProductCard,
   TaggedContentCard,
@@ -23,6 +25,7 @@ export default {
 };
 
 export {
+  AvatarCard,
   UserCard,
   ProductCard,
   TaggedContentCard,
